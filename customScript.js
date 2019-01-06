@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @author       https://github.com/RealDekkia/
-// @match        https://www.twitch.tv
+// @match        https://www.twitch.tv/*
 // ==/UserScript==
 
 (function() {
