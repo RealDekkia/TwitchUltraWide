@@ -1,0 +1,9 @@
+.video-player--theatre-whispers.video-player--logged-in .video-player__container {
+
+    bottom: 0;
+}
+
+.pl-controls-bottom {
+    height: 80px;
+    padding: 0;
+}
